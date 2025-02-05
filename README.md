@@ -104,6 +104,9 @@ Hi, I'm **Nayeb Ahmed Qureshi** – a passionate web Developer with a knack for 
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DilligentArch)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayeb-ahmed-qureshi)
+
+
+
 [Chat with me on WhatsApp](https://wa.me/8801837705287)
 
 <!-- <p align="center">
