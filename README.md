@@ -5,7 +5,7 @@
 
 
 
-# Nayeb AHmed Qureshi - Web Developer
+# Nayeb Ahmed Qureshi - Web Developer
 
 
 
