@@ -79,13 +79,16 @@ Hi, I'm **Nayeb Ahmed Qureshi** – a passionate web Developer with a knack for 
 
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=DilligentArch&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilligentArch&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=DilligentArch&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats" />
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilligentArch&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DilligentArch&theme=onedark&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=DilligentArch&theme=onedark&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
 </p>
+
+
+
 
 
 
