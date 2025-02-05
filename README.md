@@ -84,8 +84,12 @@ Hi, I'm **Nayeb Ahmed Qureshi** – a passionate web Developer with a knack for 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DilligentArch&theme=onedark&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DilligentArch&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Profile Trophy" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilligentArch&theme=github" alt="GitHub Activity Graph" />
+</p>
+
 
 
 
