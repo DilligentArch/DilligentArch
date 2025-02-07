@@ -83,9 +83,7 @@ Hi, I'm **Nayeb Ahmed Qureshi** – a passionate web Developer with a knack for 
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilligentArch&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DilligentArch&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Profile Trophy" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilligentArch&theme=github" alt="GitHub Activity Graph" />
 </p>
